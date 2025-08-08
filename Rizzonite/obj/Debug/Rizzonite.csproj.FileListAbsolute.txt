@@ -1,0 +1,12 @@
+H:\!   github\piss\Rizzonite\Rizzonite\bin\Debug\Rizzonite.dll
+H:\!   github\piss\Rizzonite\Rizzonite\bin\Debug\Rizzonite.pdb
+H:\!   github\piss\Rizzonite\Rizzonite\obj\Debug\Rizzonite.csproj.AssemblyReference.cache
+H:\!   github\piss\Rizzonite\Rizzonite\obj\Debug\Rizzonite.csproj.CoreCompileInputs.cache
+H:\!   github\piss\Rizzonite\Rizzonite\obj\Debug\Rizzonite.dll
+H:\!   github\piss\Rizzonite\Rizzonite\obj\Debug\Rizzonite.pdb
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\bin\Debug\Rizzonite.dll
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\bin\Debug\Rizzonite.pdb
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\obj\Debug\Rizzonite.csproj.AssemblyReference.cache
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\obj\Debug\Rizzonite.csproj.CoreCompileInputs.cache
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\obj\Debug\Rizzonite.dll
+H:\!   github\piss\Obis-Resonite-Mods\Rizzonite\obj\Debug\Rizzonite.pdb

@@ -17,7 +17,7 @@ namespace Rizzonite
         public override string Name => "Rizzonite";
         public override string Author => "Obi 1";
         public override string Version => VERSION_CONSTANT;
-        public override string Link => "none";
+        public override string Link => "https://github.com/Obimydudee/Obis-Resonite-Mods/tree/main/Rizzonite";
 
         public override void OnEngineInit()
         {
